@@ -1,0 +1,27 @@
+html {
+  height: 100%; }
+
+.T_ML5 {
+  margin-left: 5px; }
+
+.T_ML10 {
+  margin-left: 10px; }
+
+.T_Mt100 {
+  margin-top: 100px; }
+
+.T_W10P {
+  width: 10%; }
+
+.T_backgroud {
+  height: 100%;
+  -webkit-box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5); }
+
+.T_welcome {
+  position: absolute;
+  bottom: 5px;
+  right: 5px; }
+
+.T_pr {
+  position: relative; }
